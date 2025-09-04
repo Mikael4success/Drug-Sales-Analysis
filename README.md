@@ -10,7 +10,6 @@ The report consists of three pages:
 
 ### Problem Statement
 ---
--	Monitor overall sales performance and profitability
 -	Identify top-performing and underperforming drugs/customers
 -	Understand customer demographics and buying patterns
 -	Track sales trends over time for strategic planning
@@ -60,7 +59,6 @@ This were the customized layouts used for each of the reports created in PowerPo
 ### Analysis and Visualization
 
 #### Top/Bottom Dashboard
-
-![](SS_Top(1).png)
-
-![](SS_Top(2).png)
+Top/Bottom Dashboard view    |    Top/Bottom Dashboard with open filter panel
+:----------------------------:|:-------------------------------------------:
+![](SS_Top(1).png)|![](SS_Top(2).png)
