@@ -10,7 +10,8 @@ The report consists of three pages:
 
 ### Problem Statement
 ---
--	Identify top-performing and underperforming drugs/customers
+-	Monitor overall sales performance and profitability
+- Identify top-performing and underperforming drugs/customers
 -	Understand customer demographics and buying patterns
 -	Track sales trends over time for strategic planning
 
@@ -61,4 +62,38 @@ This were the customized layouts used for each of the reports created in PowerPo
 #### Top/Bottom Dashboard
 Top/Bottom Dashboard view    |    Top/Bottom Dashboard with open filter panel
 :----------------------------:|:-------------------------------------------:
-![](SS_Top(1).png)|![](SS_Top(2).png)
+![](SS_Top(1).png)|![](SS_Top(1.1).png)
+
+- In February, the business experienced a decline compared to January across the overall sales performance while profit margins remained fairly stable even though it had a minor dip of -0.21%
+- Lisinopril contributed 5.0% of total revenue as the top leading drug sales, making it the leading revenue driver.
+- On the otherside, Warfin, the overall least sold, accounted for less than 1% of sales, despite taking up significant shelf space.
+- David Johnson highlighted as the top customer contributed 5.6% of total revenue. Though despite it being small have a disproportionately high impact on revenue. 
+- Carol Smith accounted for less than 1% of sales that made the least revenue.
+- Top/Bottom Dashboard with open filter panel, displays the same dashboard but with the filter panel to make it clear to the end user that filters (slicers for Month and Year) are available and can be used to customize the analysis.
+
+#### Customer Dashboard
+
+Customer view 1    |    Customer view 2   |  Customer view 3   
+:-----------------:|:------------------:|:--------------:
+![](SS_Customer(1).png)|![](SS_Customer(2).png)|![](SS_Customer(3).png)
+
+- A total of 200 customers generated a total revenue of $65M averaging of $323K per customer shows that a relatively small customer base contributes significantly large amounts to overall sales.
+- As it is shown in the buyer type, the business is heavily dependent on the sellers which accounts for 88% of revenue while users contribution remain relatively small.
+- 51+ and 31-40 age groups shows that revenue share is significantly skewed to mainly older customers.
+- Gender contribution are more balanced, with males leading slightly.
+- The business is highly dependent on ﻿Canada and Australia﻿ for the majority of its revenue. 
+- This view presents the dashboard with Revenue by Country shown as a bar chart.
+- It highlights revenue comparisons across countries in a simple, clear format.
+- In this version, the Revenue by Country is displayed as a map visualization instead of a bar chart.
+- The geographic distribution allows users to quickly identify regional performance patterns.
+- This screenshot shows the hover tooltip on the Revenue by Age Group chart.
+
+The tooltip dynamically displays:
+
+The age group name being hovered on
+
+The total revenue (in dollars) for that age group
+
+The top three drugs purchased within that age group along with their revenues
+
+This tooltip provides deeper, context-specific insights that go beyond the static chart visuals.
