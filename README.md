@@ -84,16 +84,22 @@ Customer view 1    |    Customer view 2   |  Customer view 3
 - The business is highly dependent on ﻿Canada and Australia﻿ for the majority of its revenue. 
 - This view presents the dashboard with Revenue by Country shown as a bar chart.
 - It highlights revenue comparisons across countries in a simple, clear format.
-- In this version, the Revenue by Country is displayed as a map visualization instead of a bar chart.
+- The Revenue by Country is shown in this view as a map visualization instead of a bar chart, and shows the hover tooltip on the Revenue by Age Group chart.
 - The geographic distribution allows users to quickly identify regional performance patterns.
 - This screenshot shows the hover tooltip on the Revenue by Age Group chart.
+- The tooltip dynamically displays: 
+- The age group name being hovered on
+- The total revenue (in dollars) for that age group
+- The top three drugs purchased within that age group along with their revenues
+- This tooltip provides deeper, context-specific insights that go beyond the static chart visuals.
+- This version displays the Revenue by Country as a bar chart (reintroducing the earlier format).
+- It also demonstrates the customized tooltip functionality: when hovering over a country bar, the tooltip dynamically shows:
+- The country name being hovered on
+- The total revenue (in dollars) for that country
+- The top three drugs in that country and their respective revenues
 
-The tooltip dynamically displays:
+#### Trend Dashboard
 
-The age group name being hovered on
-
-The total revenue (in dollars) for that age group
-
-The top three drugs purchased within that age group along with their revenues
-
-This tooltip provides deeper, context-specific insights that go beyond the static chart visuals.
+Trend Dashboard view 1   |    Trend Dashboard view 2
+:----------------------------:|:-------------------------------------------:
+![](SS_Trend(1).png)|![](SS_Trend(2).png)
