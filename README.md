@@ -103,3 +103,15 @@ Customer view 1    |    Customer view 2   |  Customer view 3
 Trend Dashboard view 1   |    Trend Dashboard view 2
 :----------------------------:|:-------------------------------------------:
 ![](SS_Trend(1).png)|![](SS_Trend(2).png)
+
+- The growth from the year 2022 to 2023 shows shows high market expansion, but quarterly spreads suggest Q3 is the most productive period.
+- In months February (-23.8%), August (-19.0%), and October (-12.5%) sharp declines occured signaling periods of weakened sales performance.
+- Strong rebounds followed these declines, particularly in March (+20.9%), July (+16.3%), and September (+22.2%), showing recovery potential.
+- Fridays ($10.3M) drive the highest sales shows that weekday shopping behavior peaks at the end of the workweek.
+- From the heatmap analysis of top-selling drugs, Clonazepam consistently ranked as a high performer, while Ezetimibe and Lisinopril recorded very low contributions across weekdays.
+- This view displays the entire dashboard with Revenue by Weekdays shown in a column chart.
+- This view displays the filter panel (slicers for Country and Gender) is expanded, so viewers can see the available filtering options. 
+- The Weekdays earnig and top-5 drugs is visualized as a heatmap, making it easier to identify drug performances varied by day.
+
+### Recommendation
+
