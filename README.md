@@ -115,3 +115,10 @@ Trend Dashboard view 1   |    Trend Dashboard view 2
 
 ### Recommendation
 
+- Focus on top-performing drugs (e.g., Lisinopril) and high-value customers while reassessing underperformers (e.g., Warfarin, low-contributing customers) to reduce wasted resources.Focus on top-performing drugs (e.g., Lisinopril) and high-value customers while reassessing underperformers (e.g., Warfarin, low-contributing customers) to reduce wasted resources.
+- Use trend insights to prepare for revenue dips (Feb, Aug, Oct) with targeted promotions and stock up for rebound months (Mar, Jul, Sep) and high-performing quarters.
+- Reduce dependency on sellers, older age groups, and two major countries (Canada, Australia) by targeting younger demographics, “user”-type buyers, and new markets.
+
+### Conclusion
+
+The analysis highlights that revenue is concentrated among a small set of products, customers, demographics, and geographies, with clear seasonal patterns. By aligning sales strategies to these insights, the business can improve stability, reduce risks, and capture growth opportunities more effectively.
