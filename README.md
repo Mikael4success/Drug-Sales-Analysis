@@ -50,7 +50,7 @@ I manually connected relatable tables resulting in a star schema model and they 
 - The CustomerID in the Customer table connected to the CustomerID in the FactTable 
 - The Date in the Calendar table connected to the SalesDate in the FactTable
 
-### PowerPoint Templates
+### Report wireframes
 PPt Top/Bottom    |    PPt Customer    |    PPt Trend    |    PPt Tooltip
 :-----------------:|:------------------:|:--------------:|:--------------:
 ![](PPt_dashboard_top.jpg)|![](PPt_dashboard_customer.jpg)|![](PPt_dashboard_trend.jpg)|![](PPt_tooltip.jpg)
