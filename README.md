@@ -132,12 +132,12 @@ This were the customized layouts used for each of the reports created in PowerPo
 - The Weekdays earnig and top-5 drugs is visualized as a heatmap, making it easier to identify drug performances varied by day.
 - From the heatmap analysis of top-selling drugs, Clonazepam consistently ranked as a high performer, while Ezetimibe and Lisinopril recorded very low contributions across weekdays.
 
+### Conclusion
+
+The analysis highlights that revenue is concentrated among a small set of products, customers, demographics, and geographies, with clear seasonal patterns. By aligning sales strategies to these insights, the business can improve stability, reduce risks, and capture growth opportunities more effectively.
+
 ### Recommendation
 
 - Focus on top-performing drugs (e.g., Lisinopril) and high-value customers while reassessing underperformers (e.g., Warfarin, low-contributing customers) to reduce wasted resources.
 - Use trend insights to prepare for revenue dips (Feb, Aug, Oct) with targeted promotions and stock up for rebound months (Mar, Jul, Sep) and high-performing quarters.
 - Reduce dependency on sellers, older age groups, and two major countries (Canada, Australia) by targeting younger demographics, “user”-type buyers, and new markets.
-
-### Conclusion
-
-The analysis highlights that revenue is concentrated among a small set of products, customers, demographics, and geographies, with clear seasonal patterns. By aligning sales strategies to these insights, the business can improve stability, reduce risks, and capture growth opportunities more effectively.
